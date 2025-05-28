@@ -1,6 +1,11 @@
 import './_.prototypes';
 
-const alphabets = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+const alphabets = ['A(Ctrl+1)',
+  'B(Ctrl+2)',
+  'C(Ctrl+3)',
+  'D(Ctrl+4)',
+  'E(Ctrl+5)',
+  'F(Ctrl+6)', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
 
 /** index number 2 letters
  * @example stringAt(26) ==> 'AA'
